@@ -40,4 +40,10 @@ h2 {
   flex-direction: column-reverse;
   justify-content: space-around;
   align-items: center;
+  position: relative;
+}
+
+#srce:hover,
+#uzvicnik:hover {
+  cursor: pointer;
 }
